@@ -30,10 +30,6 @@ O projeto segue boas práticas de estrutura de pastas e código semântico, com 
 Para visualizar o site localmente: https://felipeticiano.github.io/Plataforma_ong_html/  
 Abra o arquivo index.html no navegador de sua preferência.
 
-Para acessar o site online via GitHub Pages:
-
-[Seu link do GitHub Pages aqui]
-
 Arquivos de Suporte
 
 Todos os vídeos, prints e validação de cada página estão disponíveis no Google Drive: https://drive.google.com/drive/folders/1qf8oZgbmn7exEpG3xHdbulKzb2fFicsR?usp=drive_link
