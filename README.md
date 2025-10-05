@@ -51,6 +51,6 @@ JavaScript
 
 Autor
 
-Felipe Ticiano Foltram
+Felipe Ticiano Foltram.
 Aluno de Análise e Desenvolvimento de Sistemas (UNICID)
 
