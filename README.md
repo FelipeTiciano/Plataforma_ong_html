@@ -9,15 +9,15 @@ O projeto segue boas práticas de estrutura de pastas e código semântico, com 
 ## Estrutura de Pastas
 
 /Plataforma_ong_html
-│
-├── index.html # Página principal
-├── css/
-│ └── style.css # Arquivo de estilos
-├── js/ # Scripts (se houver)
-├── img/ # Imagens utilizadas no site
-├── docs/ # Arquivos de apoio (prints, vídeos, validações)
-│ └── links.pdf # PDF com links de vídeos, prints e validação página a página
-└── README.md # Este arquivo
+
+ index.html # Página principal
+ css/
+│style.css # Arquivo de estilos
+│js/ # Scripts (se houver)
+│img/ # Imagens utilizadas no site
+│ docs/ # Arquivos de apoio (prints, vídeos, validações)
+│ --links.pdf # PDF com links de vídeos, prints e validação página a página
+│ --README.md # Este arquivo
 
 ## Funcionalidades
 - Layout organizado e fácil navegação;
