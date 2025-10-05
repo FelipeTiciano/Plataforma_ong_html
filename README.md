@@ -37,7 +37,7 @@ Todos os vídeos, prints e validação de cada página estão disponíveis no Go
 Tecnologias Utilizadas:
 HTML5
 CSS3
-JavaScript (se houver)
+JavaScript
 
 Autor
 
