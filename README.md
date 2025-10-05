@@ -15,7 +15,7 @@ O projeto segue boas práticas de estrutura de pastas e código semântico, com 
 │style.css # Arquivo de estilos
 │js/ # Scripts (se houver)
 │img/ # Imagens utilizadas no site
-│ docs/ # Arquivos de apoio (prints, vídeos, validações)
+│ docs/ # Arquivos de apoio, prints de validaçao, wireframe em html
 │ --links.pdf # PDF com links de vídeos, prints e validação página a página
 │ --README.md # Este arquivo
 
