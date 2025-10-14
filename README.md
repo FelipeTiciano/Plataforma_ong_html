@@ -27,6 +27,11 @@ Criar uma plataforma web semântica, acessível e responsiva que sirva como mode
 + ├── logo.svg
 + ├── project1.png
 + └── project1.webp
++ └── VALIDACOES/
++ ├── validacao_index.png
++ ├── validacao_projetos.png
++ ├── validacao_cadastro.png
++ └── README_VALIDACOES.md
 
 ## 💡 Funcionalidades Implementadas
 
