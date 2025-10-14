@@ -7,25 +7,25 @@ O site tem como objetivo apresentar informações sobre a ONG, utilizando **HTML
 O projeto segue boas práticas de estrutura de pastas e código semântico, com todas as páginas validadas.
 
 /Plataforma_ong_html
-│
-├── index.html
-├── sobre.html
-├── projetos.html
-├── voluntariado.html
-├── doacoes.html
-├── transparencia.html
-├── blog.html
-├── contato.html
-├── css/
-├── js/
-├── img/
-├── docs/
-│   ├── wireframe.pdf
-│   ├── relatorio_tecnico.pdf
-│   ├── formularios.pdf
-│   └── validacao/
-│      
-└── README.md
++ │
++ ├── index.html
++ ├── sobre.html
++ ├── projetos.html
++ ├── voluntariado.html
++ ├── doacoes.html
++ ├── transparencia.html
++ ├── blog.html
++ ├── contato.html
++ ├── css/
++ ├── js/
++ ├── img/
++ ├── docs/
++ │   ├── wireframe.pdf
++ │   ├── relatorio_tecnico.pdf
++ │   ├── formularios.pdf
++ │   └── validacao/
++ │      
++ └── README.md
 
 
 
