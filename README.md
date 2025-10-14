@@ -73,8 +73,11 @@ Criar uma plataforma web semântica, acessível e responsiva que sirva como mode
 Dê duplo clique em index.html, ou
 
 Arraste o arquivo para o navegador.
+
 ou
+
 Acesse: https://felipeticiano.github.io/Plataforma_ong_html/
+
 ---
 
 🧪 Validação W3C
