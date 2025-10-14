@@ -74,7 +74,7 @@ Dê duplo clique em index.html, ou
 
 Arraste o arquivo para o navegador.
 ou
-Acesse: https://seuusuario.github.io/nome-do-repositorio/
+Acesse: https://felipeticiano.github.io/Plataforma_ong_html/
 ---
 
 🧪 Validação W3C
