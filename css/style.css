@@ -1,0 +1,65 @@
+
+/* style.css - mobile-first */
+:root{
+  --primary:#0a74da;
+  --accent:#06c;
+  --bg:#f8fbff;
+  --text:#222;
+  --max-width:1000px;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  line-height:1.4;
+  -webkit-font-smoothing:antialiased;
+}
+.container{max-width:var(--max-width);margin:0 auto;padding:1rem;}
+header.site-header{
+  background:linear-gradient(90deg,var(--primary),var(--accent));
+  color:white;padding:1rem 0;border-bottom:4px solid rgba(0,0,0,0.05);
+}
+.header-inner{display:flex;align-items:center;gap:1rem;justify-content:space-between}
+.logo{display:flex;align-items:center;gap:.75rem}
+.logo img{height:48px;width:48px;border-radius:6px}
+h1.site-title{font-size:1.125rem;margin:0}
+nav a{color:white;text-decoration:none;margin-left:1rem;font-weight:600}
+.skip-link{position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden}
+.skip-link:focus{left:1rem;top:1rem;width:auto;height:auto;background:#fff;padding:.5rem;border-radius:4px;z-index:1000}
+
+/* Hero */
+.hero{padding:1.25rem 0}
+.hero-card{background:white;padding:1rem;border-radius:12px;box-shadow:0 6px 18px rgba(2,6,23,0.06)}
+.grid{display:grid;gap:1rem}
+.grid-2{grid-template-columns:1fr; }
+@media(min-width:800px){ .grid-2{grid-template-columns:2fr 1fr;} }
+
+/* Projects list */
+.projects{display:grid;gap:1rem}
+.project{background:white;padding:0.75rem;border-radius:10px;display:flex;gap:0.75rem;align-items:flex-start}
+.project img{width:110px;height:72px;object-fit:cover;border-radius:8px}
+
+/* Form */
+form{background:white;padding:1rem;border-radius:10px}
+fieldset{border:1px solid #eee;padding:0.75rem;border-radius:8px;margin:0 0 0.75rem 0}
+label{display:block;font-weight:600;margin-bottom:0.25rem}
+.input-row{display:grid;grid-template-columns:1fr;gap:.5rem}
+@media(min-width:600px){.input-row.two{grid-template-columns:1fr 1fr} }
+
+/* Buttons */
+.btn{display:inline-block;background:var(--primary);color:white;padding:.6rem .9rem;border-radius:8px;text-decoration:none;border:none;font-weight:700}
+.btn.ghost{background:transparent;color:var(--primary);border:2px solid rgba(10,116,218,0.12)}
+
+/* Footer */
+.site-footer{padding:1rem 0;margin-top:1rem;font-size:.9rem;color:#444}
+small.meta{color:#666}
+
+/* Accessibility helpers */
+.visually-hidden{position:absolute!important;height:1px;width:1px;overflow:hidden;clip:rect(1px,1px,1px,1px);white-space:nowrap}
+
+/* Utility */
+.row{display:flex;gap:1rem;flex-wrap:wrap}
+.card{background:white;padding:1rem;border-radius:10px}
